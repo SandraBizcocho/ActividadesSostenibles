@@ -1,6 +1,4 @@
-# ActividadesSostenibles
-
-Índice
+# ÍNDICE  
 1.1. Introducción a la sostenibilidad en los sistemas productivos.  
 1.2. El modelo actual de producción y consumo.  
 1.3. Economía verde y economía circular.  
