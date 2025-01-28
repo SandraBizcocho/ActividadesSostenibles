@@ -11,11 +11,11 @@
 1.8.- Procesos de producción sostenibles.  
 1.9. Marco normativo ambiental  
 
-Conclusiones
-Mapa conceptual (Herramientas utilizada)
-Glosario ( Sostenibilidad, Economía circular, Economía verde, Ecodiseño, Ciclo de vida del producto, Impacto ambiental, Producción sostenible, Normativa  ambiental, Huella ecológica, Residuos cero)
-Referencias
-Autores
+Conclusiones  
+Mapa conceptual (Herramientas utilizada)  
+Glosario ( Sostenibilidad, Economía circular, Economía verde, Ecodiseño, Ciclo de vida del producto, Impacto ambiental, Producción sostenible, Normativa  ambiental, Huella ecológica, Residuos cero)  
+Referencias  
+Autores  
 
 1.- ¿Qué es la economía circular?
 
