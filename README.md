@@ -29,7 +29,8 @@ Referencias
 Autores  
 
 2.- ¿Cuáles son las principales fuentes de energía renovable utilizadas en el sector TI?  
-3.- ¿Qué es la optimización del hardware y cómo contribuye a la sostenibilidad?   
+3.- ¿Qué es la optimización del hardware y cómo contribuye a la sostenibilidad?  
+4: ¿Cómo puede la virtualización ayudar a reducir el impacto ambiental en TI?  
 5.- ¿Por qué es importante reciclar los dispositivos electrónicos?  
 6.- ¿Qué empresas tecnológicas están aplicando medidas sostenibles en sus operaciones?  
 7.- ¿Cómo pueden los profesionales de TI contribuir a la sostenibilidad en su trabajo?  
