@@ -1,32 +1,37 @@
 # ÍNDICE  
-1.1. Introducción a la sostenibilidad en los sistemas productivos.  
-1.2. El modelo actual de producción y consumo.  
-1.3. Economía verde y economía circular.  
-1.4. Evaluación de impactos ambientales.  
-1.5. Ecodiseño aplicado al sistema productivo.  
-1.6. Estrategias sostenibles en actividades productivas.  
-1.7.- Análisis del ciclo de vida del producto.  
-1.8.- Procesos de producción sostenibles.  
-1.9. Marco normativo ambiental  
+
+1.- Impacto ambiental del sector TI
+
+Alto consumo energético de los centros de datos.
+
+Generación de residuos electrónicos.
+
+Emisiones de CO₂ y contaminación.
+
+2.- Estrategias de sostenibilidad en TI
+
+Uso de energías renovables (solar, eólica).
+
+Optimización del hardware y virtualización.
+
+Reciclaje y reutilización de equipos electrónicos.
+
+3.- Ejemplos y buenas prácticas
+
+Empresas tecnológicas que aplican medidas sostenibles (Google, Microsoft, AWS).
+
+Acciones que pueden tomar los profesionales de TI para reducir el impacto ambiental.
 
 Conclusiones  
 Mapa conceptual (Herramientas utilizada)  
-Glosario ( Sostenibilidad, Economía circular, Economía verde, Ecodiseño, Ciclo de vida del producto, Impacto ambiental, Producción sostenible, Normativa  ambiental, Huella ecológica, Residuos cero)  
+Glosario (Consumo energético ,Residuos electrónicos (e-waste), Emisiones de CO₂ ,Energías renovables, Optimización del hardware, Virtualización, Reciclaje electrónico, Sostenibilidad en TI, Centros de datos, Buenas prácticas ambientales) 
 Referencias  
 Autores  
 
-1.- ¿Qué es la economía circular?
-
-2.- La regla de las 7R.
-
-3.- El consumismo.
-
-4.- La huella ecológica.
-
-5.- El ciclo de vida de un producto.
-
-6.- La obsolescencia programada.
-
-7.- La economía verde.
-
-8.- El ecodiseño.
+1.- Qué impacto ambiental tiene el consumo energético de los centros de datos?
+2.- ¿Cuáles son las principales fuentes de energía renovable utilizadas en el sector TI?
+3.- ¿Qué es la optimización del hardware y cómo contribuye a la sostenibilidad?
+4.- ¿Cómo puede la virtualización ayudar a reducir el impacto ambiental en TI?
+5.- ¿Por qué es importante reciclar los dispositivos electrónicos?
+6.- ¿Qué empresas tecnológicas están aplicando medidas sostenibles en sus operaciones?
+7.- ¿Cómo pueden los profesionales de TI contribuir a la sostenibilidad en su trabajo?
