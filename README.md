@@ -24,9 +24,9 @@ Acciones que pueden tomar los profesionales de TI para reducir el impacto ambien
 
 [Conclusiones](Conclusiones.md)
 
-[Mapa conceptual](Mapa.md) (Herramientas utilizada)  
+[Mapa conceptual](Mapa.md)  
 
-[Glosario](Glosario.md) (Consumo energético ,Residuos electrónicos (e-waste), Emisiones de CO₂ ,Energías renovables, Optimización del hardware, Virtualización, Reciclaje electrónico, Sostenibilidad en TI, Centros de datos, Buenas prácticas ambientales)   
+[Glosario](Glosario.md) 
 
 [Referencias](Referencias.md)
 
