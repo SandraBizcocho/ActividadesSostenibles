@@ -18,7 +18,6 @@ Los residuos electrónicos son los aparatos viejos que ya no usamos como teléfo
 
 ---
 **🌍 Emisiones de CO2**
-
 ---
 
 Las emisiones de CO2 🚗 son gases que liberan los equipos tecnológicos al generar electricidad, sobre todo si ésta proviene de fuentes no renovables. La buena noticia es que al usar energías limpias y optimizar procesos podemos reducir estas emisiones. Necesitamos ir hacia un futuro más verde 🌱.
