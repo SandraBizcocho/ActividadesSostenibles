@@ -24,7 +24,7 @@ Acciones que pueden tomar los profesionales de TI para reducir el impacto ambien
 
 [Conclusiones](Conclusiones.md)
 
-[Mapa conceptual](Mapa.md)  
+[Mapa conceptual](Mapaconceptual.md)  
 
 [Glosario](Glosario.md) 
 
