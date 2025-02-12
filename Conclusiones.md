@@ -1,4 +1,4 @@
-#Conclusiones
+# Conclusiones
 
 Después de analizar el impacto ambiental del sector TI, las estrategias de sostenibilidad y algunos ejemplos inspiradores, queda claro que la tecnología puede ser tanto un problema como parte de la solución 🌍. Los centros de datos, el consumo de energía y los residuos electrónicos representan grandes desafíos, pero también hay oportunidades enormes para reducir la huella ecológica.
 
