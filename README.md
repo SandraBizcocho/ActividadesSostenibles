@@ -31,7 +31,3 @@ Acciones que pueden tomar los profesionales de TI para reducir el impacto ambien
 [Referencias](Referencias.md)
 
 [Autores](Autores.md)
-
-
-6.- ¿Qué empresas tecnológicas están aplicando medidas sostenibles en sus operaciones?  
-7.- ¿Cómo pueden los profesionales de TI contribuir a la sostenibilidad en su trabajo?  
