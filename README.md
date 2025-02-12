@@ -24,17 +24,14 @@ Acciones que pueden tomar los profesionales de TI para reducir el impacto ambien
 
 [Conclusiones](Conclusiones.md)
 
-[Mapa conceptual](Mapa.md) (Herramientas utilizada)  
+[Mapa conceptual](Mapa.md)  
 
-[Glosario](Glosario.md) (Consumo energético ,Residuos electrónicos (e-waste), Emisiones de CO₂ ,Energías renovables, Optimización del hardware, Virtualización, Reciclaje electrónico, Sostenibilidad en TI, Centros de datos, Buenas prácticas ambientales)   
+[Glosario](Glosario.md) 
 
 [Referencias](Referencias.md)
 
 [Autores](Autores.md)
 
-2.- ¿Cuáles son las principales fuentes de energía renovable utilizadas en el sector TI?  
-3.- ¿Qué es la optimización del hardware y cómo contribuye a la sostenibilidad?  
-4: ¿Cómo puede la virtualización ayudar a reducir el impacto ambiental en TI?  
-5.- ¿Por qué es importante reciclar los dispositivos electrónicos?  
+
 6.- ¿Qué empresas tecnológicas están aplicando medidas sostenibles en sus operaciones?  
 7.- ¿Cómo pueden los profesionales de TI contribuir a la sostenibilidad en su trabajo?  
